@@ -12,5 +12,3 @@ Skills: PHP | Laravel | Codeigniter | Javascript | Node.js | Angular
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bbeycanov)  
 
 ![Profile views](https://gpvc.arturio.dev/bbeycanov) 
-
-[![Bayjan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bbeycanov)](https://github.com/anuraghazra/github-readme-stats)
