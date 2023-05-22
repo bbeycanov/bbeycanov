@@ -13,4 +13,4 @@ Skills: PHP | Laravel | Codeigniter | Javascript | Node.js | Angular
 
 ![Profile views](https://gpvc.arturio.dev/bbeycanov) 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+[![Bayjan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bbeycanov)](https://github.com/anuraghazra/github-readme-stats)
