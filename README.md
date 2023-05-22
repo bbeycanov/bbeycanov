@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Bayjan
 #### I am Software Enginer
 
 Skills: PHP | Laravel | Codeigniter | Javascript | Node.js | Angular
