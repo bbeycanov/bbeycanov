@@ -7,8 +7,6 @@ Skills: PHP | Laravel | Codeigniter | Javascript | Node.js | Angular
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbeycanov)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bbeycanov&show_icons=true&count_private=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bbeycanov)  
 
 ![Profile views](https://gpvc.arturio.dev/bbeycanov) 
